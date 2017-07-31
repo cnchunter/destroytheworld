@@ -1,5 +1,5 @@
 # destroytheworld
-I want to build an app that effectively destroys the worldT
+I want to build an app that effectively destroys the world
 
 ### This is a Heading!!!
 
